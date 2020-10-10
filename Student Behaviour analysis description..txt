@@ -1,0 +1,9 @@
+Student Behaviour Analysis system.
+
+This application is developed in "c++" using the concept of Object Oriented Programming and file handling.
+Using this application the users can create and maintain the discipline records and behaviour of students with 
+Teahers,Adminstrators and their classmates.Student's records can be created,modified viewed and later modified.
+whoole class records can also be displayed to compare the behaviour of students.
+Use of Grading Sysytem:-
+Teachers can rate the student's behaviour with themselves,adminstrators,classmates on a scale of "1-10".
+Based on the overall ratings ,grading for a student is generated.The records are also stored for future references.  
